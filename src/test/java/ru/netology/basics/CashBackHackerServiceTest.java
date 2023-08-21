@@ -1,7 +1,7 @@
 package ru.netology.basics;
 
-import org.junit.Test;
-import org.junit.Assert;
+import org.testng.Assert;
+import org.testng.annotations.Test;
 public class CashBackHackerServiceTest {
         @Test
         public void ifAmountLessBoundary() {
